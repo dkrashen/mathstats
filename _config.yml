@@ -16,8 +16,8 @@ baseurl: "/mathstats"
 # url: "localhost:4000"
 url: "http://dkrashen.org"
 
-#analytics_id: ""
-#analytics: "false"
+#analytics_id: "UA-74503807-4"
+#analytics: "true"
 
 # Build settings
 markdown: kramdown
