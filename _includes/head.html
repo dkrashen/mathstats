@@ -1,4 +1,8 @@
 <head>
+  {% if site.analytics == "true" %}
+    {% include analytics.html %}
+  {% endif %}
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -41,9 +45,5 @@
     <!-- my Bootstrap mods-->
 	<link href="{{ "/css/bootstrap-dannymod.css" | prepend: site.baseurl }}"
 	rel="stylesheet">
-
-  {% if site.analytics == "true" %}
-    {% include analytics.html %}
-  {% endif %}
 
 </head>
