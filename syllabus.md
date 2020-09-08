@@ -26,6 +26,8 @@ To prepare for the course, it would be recommended that you review probability, 
 Course Structure
 ---
 
+The structure of this course is subject to some degree of change, as we are all adjusting to a new environment of university education. This said, we will start with the following plan:
+
 Video material will be made available Monday and Thursday mornings, with short assignments due roughly 24 hours after the videos are posted. These will be primarily graded for completion, and you will have the opportunity here to give feedback on your understanding of the material, so that I know which things are well understood and which things are less clear to everyone. In addition, there will be a standard length weekly homework assignment given out on Tuesday and due Thursday. Finally, once a month we will have longer cumulative homework assignments.
 
 
