@@ -13,3 +13,7 @@
   description: "Probability review/overview, part 3. Central limit theorem"
   filename: "lecture2-3.pdf"
   video: "https://youtu.be/fITiKzwS_tE"
+- title: "Lecture 4"
+  description: "Sampling distributions and a first look at estimation of means"
+  filename: "lecture4.pdf"
+  video: "https://youtu.be/1eFHETQddDk"
