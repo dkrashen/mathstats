@@ -17,3 +17,7 @@
   description: "Sampling distributions and a first look at estimation of means"
   filename: "lecture4.pdf"
   video: "https://youtu.be/1eFHETQddDk"
+- title: "Lecture 5"
+  description: "Interval estimation intro and confidence intervals for the mean"
+  filename: "lecture5.pdf"
+  video: "https://youtu.be/adzcCP9AFSE"
