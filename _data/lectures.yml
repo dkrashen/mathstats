@@ -32,3 +32,7 @@
 - title: "Lecture 7"
   description: "Confidence intervals for population variance"
   video: "https://youtu.be/ZgquWkQwGyk"
+- title: "Lecture 8"
+  description: "Normal approximation for chi square for large n"
+  video: "https://youtu.be/_Axy83Cbey8"
+  filename: "lecture8.pdf"
