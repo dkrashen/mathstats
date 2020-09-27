@@ -29,3 +29,6 @@
   description: "The what and why of the chi square distribution"
   filename: "lecture6.pdf"
   video: "https://youtu.be/mfg1ZWFuhbw"
+- title: "Lecture 7"
+  description: "Confidence intervals for population variance"
+  video: "https://youtu.be/ZgquWkQwGyk"
