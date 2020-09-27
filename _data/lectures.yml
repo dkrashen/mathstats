@@ -36,3 +36,7 @@
   description: "Normal approximation for chi square for large n"
   video: "https://youtu.be/_Axy83Cbey8"
   filename: "lecture8.pdf"
+- title: "Lecture 8.5"
+  description: "Doing better than just the central limit theorem for approximating chi square for medium size n"
+  filename: "lecture8.5.pdf"
+  video: "https://youtu.be/BkHVA6fY6aU"
