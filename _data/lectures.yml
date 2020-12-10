@@ -127,3 +127,7 @@
   description: "Introduction to using likelihood ratio tests"
   filename: "lecture21.pdf"
   video: "https://youtu.be/sYK8C9KkQnw"
+- title: "Lecture 22"
+  description: "Likelihood ratio test example featuring the t-distribution"
+  filename: "lecture22.pdf"
+  video: "https://youtu.be/8T8Vudsgx9o"
